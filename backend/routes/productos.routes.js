@@ -7,4 +7,3 @@ router.get("/:id", ProductosController.getOneById)
 router.get("/", ProductosController.create)
 
 module.exports = router
-
