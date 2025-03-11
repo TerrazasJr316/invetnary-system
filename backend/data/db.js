@@ -1,4 +1,6 @@
-const productos = []
+const productos = [{
+    
+}]
 
 // module.exports = {
 //
