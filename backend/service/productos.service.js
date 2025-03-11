@@ -31,4 +31,4 @@ class ProductosService {
     }
 }
 
-module.exports={ProductosService:new ProductosService()}
+module.exports = { ProductosService: new ProductosService() }
